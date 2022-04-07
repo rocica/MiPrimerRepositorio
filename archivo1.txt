@@ -1,1 +1,3 @@
 Laboratorio 1 de Calidad de Software
+
+ste es un archivo de prueba
